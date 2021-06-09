@@ -1,5 +1,10 @@
 # Estimation of the main conditions in (SARS-CoV-2) Covid-19 patients that cause their death using Machine learning, the case of Mexico
 ## Description of the repository
+
+The dataset is available in the portal \emph{www.gob.mx/salud} and was published by Hector Paredes. 
+
+The datset contains information up to August 2020.
+
 This repository contains 1 folder named Model with 1 notebook, Feature selection and model.
 
 Features type: Multiclass(Categorical and Ordinal)
