@@ -1,5 +1,5 @@
-#Estimation of the main conditions in (SARS-CoV-2) Covid-19 patients that cause their death using Machine learning, the case of Mexico
-##Description of the repository
+# Estimation of the main conditions in (SARS-CoV-2) Covid-19 patients that cause their death using Machine learning, the case of Mexico
+## Description of the repository
 This repository contains 1 folder named Model with 1 notebook, Feature selection and model.
 
 Features type: Multiclass(Categorical and Ordinal)
